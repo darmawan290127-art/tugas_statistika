@@ -238,7 +238,7 @@ quarto render --to pdf --no-clean
 quarto render --to epub --no-clean
 quarto render --to html
 git add .
-c
+git commit -m "Update book content"
 git push origin main
 ``` 
 
