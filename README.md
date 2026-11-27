@@ -240,7 +240,7 @@ quarto render --to html
 git add .
 git commit -m "Update book content"
 git push origin main
-```
+``` 
 
 GitHub Pages akan menerbitkan ulang situs dari folder `docs/` pada branch `main`.
 
