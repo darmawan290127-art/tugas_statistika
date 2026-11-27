@@ -147,7 +147,7 @@ git init
 git add .
 git commit -m "Initial Quarto book project"
 git branch -M main
-git remote add origin https://github.com/pakardata1/ebook-template-quarto.git
+git remote add origin https://github.com/darmawan290127-art/tugas_statistika.git
 git push -u origin main
 ```
 
@@ -172,7 +172,7 @@ Pastikan folder `docs/` sudah terbentuk, lalu unggah folder tersebut beserta sum
 Jika publikasi berhasil, alamat buku biasanya berbentuk:
 
 ```text
-https://pakardata1.github.io/ebook-template-quarto/
+https://github.com/darmawan290127-art/tugas_statistika/
 ```
 
 Alamat final dapat dilihat pada **Settings → Pages**.
