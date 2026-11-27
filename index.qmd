@@ -33,8 +33,7 @@ Penulis
 
 ![Foto Wahyu Darmawan](images/author/mawan.jpeg){.author-portrait width=1.5in fig-align="right" fig-pos="H"}
 
-**[Wahyu Darmawan](https://www.linkedin.com/in/wahyudarmawan/)**Saya adalah mahasiswa Institut Teknologi Sains Bandung (ITSB) Program Studi Sains Data. Saya memiliki ketertarikan pada bidang teknologi, pengolahan data, analisis data, dan penerapan data untuk membantu menyelesaikan berbagai permasalahan. Saya juga senang mempelajari hal-hal baru serta mengembangkan kemampuan untuk menunjang pendidikan dan karier di bidang Sains Data.
-(https://www.kaggle.com/wahyudarmawan/code). 
+**[Wahyu Darmawan](https://www.linkedin.com/in/wahyudarmawan/)**Saya adalah mahasiswa Institut Teknologi Sains Bandung (ITSB) Program Studi Sains Data. Saya memiliki ketertarikan pada bidang teknologi, pengolahan data, analisis data, dan penerapan data untuk membantu menyelesaikan berbagai permasalahan. Saya juga senang mempelajari hal-hal baru serta mengembangkan kemampuan untuk menunjang pendidikan dan karier di bidang Sains Data. 
 
 
 ## Ucapan Terima Kasih 
