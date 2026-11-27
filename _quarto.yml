@@ -27,8 +27,8 @@ book:
         aria-label: Pratinjau EPUB
   chapters:
     - index.qmd
-    - chapters/bab-1.qmd
-    - chapters/bab-2.qmd
+    - chapters/1_Sampling_Distribution_dan_Estimasia.qmd
+    - chapters/2_uji_hipotesis.qmd
     - chapters/bab-3.qmd
     - references/referensi.qmd
 
