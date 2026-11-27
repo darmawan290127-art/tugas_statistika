@@ -13,7 +13,7 @@ book:
   date: today
   description: "Deskripsi singkat tentang buku"
   cover-image: images/covergua.jpeg
-  repo-url: https://github.com/pakardata1/ebook-template-quarto.git
+  repo-url: https://github.com/darmawan290127-art/tugas_statistika.git
   repo-actions: [edit, issue]
   sidebar:
     tools:

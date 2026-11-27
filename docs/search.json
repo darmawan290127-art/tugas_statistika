@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quarto Template",
     "section": "",
-    "text": "Kata Pengantar\nDengan mengucap syukur kepada Tuhan Yang Maha Esa, saya sangat senang dapat mempersembahkan eBook “Quarto Template” kepada para pembaca dan pengguna. eBook ini disusun sebagai panduan praktis untuk membantu mahasiswa, dosen, peneliti, serta praktisi dalam memanfaatkan Quarto sebagai salah satu perangkat untuk menyusun, mengelola, dan menerbitkan dokumen secara profesional.\nQuarto merupakan perangkat open-source scientific and technical publishing yang memungkinkan pengguna mengintegrasikan teks, kode pemrograman, hasil analisis, visualisasi data, serta berbagai elemen pendukung lainnya ke dalam satu dokumen. Dengan Quarto, proses penulisan dan publikasi dapat dilakukan secara lebih terstruktur, reproducible, dan efisien dalam berbagai format keluaran, seperti HTML, PDF, Microsoft Word, serta format publikasi lainnya.\nContoh sitasi: tuliskan [@xie2015] untuk merujuk entri xie2015 di references/book.bib. Pada hasil render, sitasinya tampil seperti ini [1].\nMelalui eBook ini, pembaca akan diperkenalkan pada penggunaan template Quarto, mulai dari pengenalan struktur proyek, pengaturan konfigurasi, penulisan dokumen menggunakan Markdown, integrasi kode pemrograman, pengelolaan referensi, hingga proses rendering menjadi dokumen yang siap digunakan dan dipublikasikan.\nMateri disusun secara bertahap agar mudah dipahami dan dipraktikkan, termasuk oleh pengguna yang baru pertama kali mengenal Quarto. Template dan contoh yang disajikan diharapkan dapat menjadi referensi dalam mengembangkan berbagai kebutuhan dokumentasi akademik, laporan penelitian, modul pembelajaran, buku elektronik, maupun publikasi berbasis data.\nSaya berharap eBook ini dapat memberikan manfaat nyata dalam mendukung peningkatan literasi digital, produktivitas akademik, dan penerapan praktik penulisan ilmiah yang modern. Lebih dari sekadar panduan teknis, eBook ini diharapkan dapat mendorong pembaca untuk mengeksplorasi berbagai kemampuan Quarto dan mengembangkan template sesuai dengan kebutuhan masing-masing.\nSaya menyadari bahwa eBook ini masih memiliki ruang untuk penyempurnaan. Oleh karena itu, kritik, saran, dan masukan dari para pembaca sangat diharapkan sebagai bahan evaluasi untuk pengembangan edisi berikutnya.\nAkhir kata, semoga eBook ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi dunia pendidikan, penelitian, dan pengembangan ilmu pengetahuan.\nWahyu Darmawan\nPenulis",
+    "text": "Kata Pengantar\nDengan mengucap syukur kepada Tuhan Yang Maha Esa, saya sangat senang dapat mempersembahkan eBook “Belajar Statistika” kepada para pembaca. eBook ini disusun sebagai panduan praktis untuk membantu mahasiswa, khususnya mahasiswa Sains Data, serta siapa pun yang ingin memahami konsep dasar statistika dan menerapkannya secara langsung menggunakan bahasa pemrograman R.\nStatistika merupakan fondasi penting dalam ilmu data. Melalui statistika, kita belajar mengumpulkan, merangkum, menyajikan, dan menafsirkan data, serta menarik kesimpulan tentang populasi berdasarkan sampel secara terukur. Di era data dan kecerdasan buatan saat ini, kemampuan berpikir statistik tidak hanya dibutuhkan untuk menghitung angka, tetapi juga untuk menilai bukti secara kritis dan mengambil keputusan dengan tepat.\nMelalui eBook ini, pembaca akan diajak mempelajari statistika secara bertahap, mulai dari statistika deskriptif, ukuran pemusatan dan penyebaran data, visualisasi data, konsep peluang dan distribusi, distribusi sampling, selang kepercayaan, hingga konsep dan prosedur uji hipotesis, termasuk kesalahan Tipe I dan Tipe II, power, serta cara menafsirkan p-value dengan bijak.\nSetiap materi dilengkapi dengan penjelasan konsep, contoh kasus yang dekat dengan kehidupan sehari-hari, kode R yang dapat dijalankan langsung, serta latihan mandiri beserta pembahasannya. eBook ini disusun menggunakan Quarto sehingga teks, kode, hasil analisis, dan visualisasi tersaji dalam satu dokumen yang reproducible, yaitu setiap hasil dapat diulang dan diperiksa kembali oleh pembaca.\nMateri disusun dengan bahasa yang sederhana agar mudah dipahami dan dipraktikkan, termasuk oleh pembaca yang baru pertama kali mempelajari statistika maupun R. Saya berharap eBook ini dapat menjadi teman belajar yang membantu pembaca memahami bukan hanya bagaimana menghitung, tetapi juga mengapa suatu metode digunakan dan apa arti hasilnya dalam konteks nyata.\nSaya berharap eBook ini dapat memberikan manfaat dalam meningkatkan literasi statistik dan literasi data, mendukung proses perkuliahan, serta mendorong pembaca untuk terus mengeksplorasi data secara kritis dan bertanggung jawab.\nSaya menyadari bahwa eBook ini masih jauh dari sempurna. Oleh karena itu, kritik, saran, dan masukan dari para pembaca sangat diharapkan sebagai bahan perbaikan untuk pengembangan edisi berikutnya.\nAkhir kata, semoga eBook ini dapat menjadi referensi yang bermanfaat dan memberikan kontribusi positif bagi proses belajar statistika dan pengembangan ilmu data.\nWahyu Darmawan\nPenulis",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#penulis",
     "title": "Quarto Template",
     "section": "Penulis",
-    "text": "Penulis\n\n\n\nFoto Wahyu Darmawan\n\n\nWahyu Darmawan bekerja sebagai Dosen di Prodi Sains Data Institut Teknologi Sains Bandung. Beliau adalah meraih gelar Magister-nya dari Departemen Matematika Terapan (Applied Mathematics) National Sun Yat Sen University, Taiwan. Selain mengajar beliau juga pernah bekerja sebagai Data Scientist Freelance di perusahaan-perusahaan ternama seperti JNE, Samora Group, Pertamina, dan saat ini masih aktif sebagai Data Scientist Freelance di PT. Green City Traffic. Beliau memiliki antusiasme khusus dalam mengerjakan proyek (mengajar) Big Data Analytics, Machine Learning, Optimisasi, dan Analisis Time Series di bidang keuangan dan investasi. Keahlian utama yang dimilikinya adalah bahasa pemrograman Statistik seperti R Studio dan Python. Beliau juga sudah terbiasa dalam mengaplikasikan sistem basis data MySQL/NoSQL untuk manajemen data, serta mahir dalam menggunakan tools Big Data seperti Spark dan Hadoop. Beberapa project beliau dapat dilihat di link berikut: Rpubs, Github, Website, dan Kaggle.",
+    "text": "Penulis\n\n\n\nFoto Wahyu Darmawan\n\n\nWahyu DarmawanSaya adalah mahasiswa Institut Teknologi Sains Bandung (ITSB) Program Studi Sains Data. Saya memiliki ketertarikan pada bidang teknologi, pengolahan data, analisis data, dan penerapan data untuk membantu menyelesaikan berbagai permasalahan. Saya juga senang mempelajari hal-hal baru serta mengembangkan kemampuan untuk menunjang pendidikan dan karier di bidang Sains Data. (https://www.kaggle.com/wahyudarmawan/code).",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#ucapan-terima-kasih",
     "title": "Quarto Template",
     "section": "Ucapan Terima Kasih",
-    "text": "Ucapan Terima Kasih\nProses penulisan Tempate eBook ini tidak terlepas dari dukungan berbagai pihak. Saya ingin mengucapkan terima kasih kepada:\n\nKeluarga yang selalu memberikan dukungan moral dan semangat tanpa henti.\nRekan-rekan dan Kolaborator yang telah memberikan masukan, saran, dan kritik yang konstruktif.\nInstitusi dan Organisasi, Khususnya ITSB yang telah menyediakan sumber daya dan fasilitas yang diperlukan selama proses penelitian dan penulisan.\n\nSaya berharap Template eBook ini dapat menjadi referensi yang bermanfaat dan memberikan inspirasi serta pengetahuan baru bagi pembaca. Semoga Ebook ini dapat memenuhi ekspektasi dan kebutuhan para pembaca dan semoga ilmu yang disampaikan dapat bermanfaat bagi semua.",
+    "text": "Ucapan Terima Kasih\nProses penulisan eBook “Belajar Statistika” ini tidak terlepas dari dukungan berbagai pihak. Saya ingin mengucapkan terima kasih kepada:\n\nKeluarga yang selalu memberikan doa, dukungan moral, dan semangat tanpa henti selama saya menempuh perkuliahan.\nDosen pengampu mata kuliah Statistika yang telah membimbing dan membagikan ilmu serta materi praktikum yang menjadi dasar penyusunan eBook ini.\nTeman-teman seangkatan dan rekan belajar yang telah berdiskusi, saling membantu memahami materi, serta memberikan masukan dan kritik yang membangun.\nInstitusi, khususnya ITSB, yang telah menyediakan lingkungan belajar, sumber daya, dan fasilitas yang mendukung proses belajar dan penulisan.\n\nSaya berharap eBook ini dapat menjadi teman belajar yang bermanfaat, membantu pembaca memahami konsep statistika beserta penerapannya menggunakan R, dan menumbuhkan cara berpikir kritis terhadap data. Semoga eBook ini dapat memenuhi kebutuhan para pembaca dan semoga ilmu yang disampaikan bermanfaat bagi semua.",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -34,7 +34,7 @@
     "href": "index.html#masukan-saran",
     "title": "Quarto Template",
     "section": "Masukan & Saran",
-    "text": "Masukan & Saran\nSemua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Quarto Template ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!\nEmail: dsciencelabs@outlook.com\n\n\n\n\n[1] Y. Xie, Dynamic Documents with R and knitr, 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC, 2015.",
+    "text": "Masukan & Saran\nSemua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Quarto Template ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!\nEmail: dsciencelabs@outlook.com",
     "crumbs": [
       "Kata Pengantar"
     ]
@@ -537,16 +537,6 @@
     "text": "3.1 Praktikum",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bab3</span>"
-    ]
-  },
-  {
-    "objectID": "references/referensi.html",
-    "href": "references/referensi.html",
-    "title": "Referensi",
-    "section": "",
-    "text": "[1] Y.\nXie, Dynamic documents with\nR and knitr, 2nd ed. Boca Raton, Florida: Chapman;\nHall/CRC, 2015.",
-    "crumbs": [
-      "Referensi"
     ]
   }
 ]
