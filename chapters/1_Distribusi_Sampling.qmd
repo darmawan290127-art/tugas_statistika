@@ -1,4 +1,4 @@
-
+# Distribusi_Sampling
 # Tiga Distribusi yang Harus Dibedakan
 
 | Distribusi | Isinya | Jumlah nilai | Contoh |
