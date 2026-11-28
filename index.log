@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 10:03
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.11.27)  28 NOV 2026 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,7 +489,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks28
 \@floatcapt=\box67
 ) (c:/ProgramData/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2026/11/16 v6.3 Page Geometry
+Package: geometry 2026/11/24 v6.3a Page Geometry
 (c:/ProgramData/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2026/10/27 v1.7 ifvtex compatibility package
 )
@@ -899,7 +899,7 @@ File: mt-LatinModernRoman.cfg 2026/02/26 v1.2 microtype config. file: Latin Mode
 * driver: xetex
 * paper: letterpaper
 * layout: <same size as paper>
-* layoutoffset:(h,v)=(0pt,0pt)
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
 * v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
@@ -910,16 +910,16 @@ File: mt-LatinModernRoman.cfg 2026/02/26 v1.2 microtype config. file: Latin Mode
 * \oddsidemargin=1.44614pt
 * \evensidemargin=38.30426pt
 * \topmargin=-6.94011pt
-* \headheight=12pt
+* \headheight=12.0pt
 * \headsep=18.06749pt
-* \topskip=10pt
+* \topskip=10.0pt
 * \footskip=25.29494pt
-* \marginparwidth=125pt
-* \marginparsep=7pt
-* \columnsep=10pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0pt
-* \voffset=0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidetrue
@@ -938,10 +938,10 @@ Package babel Info: Main language set to 'indonesian'.
 * driver: xetex
 * paper: letterpaper
 * layout: <same size as paper>
-* layoutoffset:(h,v)=(0pt,0pt)
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(0pt, 614.295pt, 0pt)
-* v-part:(T,H,B)=(0pt, 794.96999pt, 0pt)
+* h-part:(L,W,R)=(0.0pt, 614.295pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 794.96999pt, 0.0pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=614.295pt
@@ -949,16 +949,16 @@ Package babel Info: Main language set to 'indonesian'.
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
 * \topmargin=-102.33748pt
-* \headheight=12pt
+* \headheight=12.0pt
 * \headsep=18.06749pt
-* \topskip=10pt
+* \topskip=10.0pt
 * \footskip=25.29494pt
-* \marginparwidth=125pt
-* \marginparsep=7pt
-* \columnsep=10pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0pt
-* \voffset=0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidetrue
@@ -979,10 +979,10 @@ it was not a recognized image format.
 
  
 Here is how much of TeX's memory you used:
- 22256 strings out of 469520
- 411026 string characters out of 5459808
- 1002845 words of memory out of 5000000
- 51258 multiletter control sequences out of 15000+600000
+ 22257 strings out of 469520
+ 411040 string characters out of 5459808
+ 1002894 words of memory out of 5000000
+ 51259 multiletter control sequences out of 15000+600000
  629125 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,1n,114p,1002b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
