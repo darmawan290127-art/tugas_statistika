@@ -8,7 +8,7 @@ project:
     - assets/epub-reader.js
 
 book:
-  title: "Quarto Template"
+  title: "Belajar statistika"
   author: "Wahyu Darmawan"
   date: today
   description: "Deskripsi singkat tentang buku"
@@ -18,7 +18,7 @@ book:
   sidebar:
     tools:
       - icon: file-pdf
-        href: Quarto-Template.pdf
+        href: Belajar-statistika.pdf
         text: Pratinjau PDF
         aria-label: Pratinjau PDF
       - icon: journal

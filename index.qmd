@@ -31,7 +31,7 @@ Penulis
 
 ## Penulis 
 
-![Foto Wahyu Darmawan](images/author/mawan.jpeg){.author-portrait width=1.5in fig-align="right" fig-pos="H"}
+![Wahyu Darmawan](images/author/mawan.jpeg){.author-portrait width=1.5in fig-align="right" fig-pos="H"}
 
 **[Wahyu Darmawan](https://www.linkedin.com/in/wahyudarmawan/)**Saya adalah mahasiswa Institut Teknologi Sains Bandung (ITSB) Program Studi Sains Data. Saya memiliki ketertarikan pada bidang teknologi, pengolahan data, analisis data, dan penerapan data untuk membantu menyelesaikan berbagai permasalahan. Saya juga senang mempelajari hal-hal baru serta mengembangkan kemampuan untuk menunjang pendidikan dan karier di bidang Sains Data. 
 
@@ -50,6 +50,6 @@ Saya berharap eBook ini dapat menjadi teman belajar yang bermanfaat, membantu pe
 
 ## Masukan & Saran 
 
-Semua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Quarto Template ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!
+Semua masukan dan tanggapan Anda sangat berarti bagi kami untuk memperbaiki Ebook Belajar Statistika ini kedepannya. Bagi para pembaca/pengguna yang ingin menyampaikan masukan dan tanggapan, dipersilahkan melalui kontak dibawah ini!
 
 **Email:** dsciencelabs@outlook.com
