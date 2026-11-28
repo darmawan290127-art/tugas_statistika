@@ -1,1 +1,2 @@
-# Isikan gambar di folder disini
+[text](../../../docs/chapters/2_Hypothesis_Testing_files)
+![alt text](daerah-penolakan-1.png) ![alt text](ilustrasi-mesin-1.png) ![alt text](kurva-power-1.png) ![alt text](plot-p-value-1.png) ![alt text](sim-tipe1-1.png)

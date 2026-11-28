@@ -1,2 +1,2 @@
 [text](../../../docs/chapters/1_Distribusi_Sampling_files)
-[text](../../../docs/chapters/2_Hypothesis_Testing_files)
+![alt text](unnamed-chunk-2-1.png) ![alt text](unnamed-chunk-5-1.png) ![alt text](unnamed-chunk-7-1.png) ![alt text](unnamed-chunk-12-1.png) ![alt text](unnamed-chunk-15-1.png) ![alt text](unnamed-chunk-17-1.png) ![alt text](unnamed-chunk-23-1.png) ![alt text](unnamed-chunk-31-1.png) ![alt text](unnamed-chunk-33-1.png)
